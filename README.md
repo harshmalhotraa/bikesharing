@@ -5,6 +5,7 @@
 
 ![Story](https://user-images.githubusercontent.com/100812635/173307648-c7586d01-d949-4c23-a76a-4f6778fec534.PNG)
 
+### Visualizations
 ![August Peak Hours](https://user-images.githubusercontent.com/100812635/173307833-a14ac0c0-2559-491b-b2d7-09a4af5e6869.PNG)
 
 ![Top Starting Locations](https://user-images.githubusercontent.com/100812635/173307866-5aa05494-237b-4bce-a045-6e341a4f0a5a.PNG)
