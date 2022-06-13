@@ -1,6 +1,6 @@
 # bikesharing
 ## Results
-[NYC Citibike Story](https://public.tableau.com/app/profile/harsh.malhotra7228/viz/NY_Citibike_16551051043690/NYCCitibikeAnalysis?publish=yes)
+[NYC Citibike Story](link to the story --> "https://public.tableau.com/app/profile/harsh.malhotra7228/viz/NY_Citibike_16551051043690/NYCCitibikeAnalysis?publish=yes")
 
 
 ![Story](https://user-images.githubusercontent.com/100812635/173307648-c7586d01-d949-4c23-a76a-4f6778fec534.PNG)
